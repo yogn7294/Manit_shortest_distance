@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph Visualization</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Graph Visualization and Shortest Path Finder</h1>
+        <div class="controls">
+            <label for="inputFile">Upload Adjacency List:</label>
+            <input type="file" id="inputFile">
+
+            <label for="source">Source Vertex:</label>
+            <select id="source"></select>
+
+            <label for="destination">Destination Vertex:</label>
+            <select id="destination"></select>
+
+            <button id="findPath">Find Shortest Path</button>
+        </div>
+        <canvas id="graphCanvas" width="800" height="600"></canvas>
+        <div class="result">
+            <p id="shortestDistance"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
