@@ -24,13 +24,13 @@ This project is designed to find the shortest route between locations inside the
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/yogn7294/Manit_shortest_distance
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-repository-name
+   cd Manit_shortest_distance
    ```
 
 3. **Open `index.html` in your web browser.**
@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [yogeshshirwar6261@gmail.com](mailto:yogeshahirwar6261@gmail.com).
 
 ---
 
@@ -78,8 +78,4 @@ Thank you for using the MANIT Bhopal Campus Route Finder!
 
 ```
 
-### Instructions:
 
-1. **Replace `your-username` and `your-repository-name`** with your actual GitHub username and repository name.
-2. **Update the email address** in the "Contact" section with your own.
-3. **Add additional sections** if needed, such as screenshots or a more detailed description of features.
